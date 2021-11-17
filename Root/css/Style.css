@@ -1,0 +1,10 @@
+div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.block__element {
+  background-color: red;
+}
+/*# sourceMappingURL=Style.css.map */
